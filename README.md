@@ -12,7 +12,7 @@ This project might be interesting for you, if you want to build a lightweight se
 
 Demo
 ----
-![alt tag](https://raw.github.com/svola/ElasticUI-extension/master/doku/demo-materialize2.png)
+![alt tag](https://raw.github.com/svola/fantasticsearch/master/doku/colibrisearch-demo.png)
 
 
 

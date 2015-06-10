@@ -7,6 +7,8 @@ The frontend was built using:
 
 http://materializecss.com/
 
+This project might be interesting for you, if you want to build a lightweight searchengine with Flask on top of an already existing ElasticSearch index. 
+
 
 Demo
 ----
@@ -45,6 +47,13 @@ And change the fieldnames inside the properties id and for to match your exact f
 ```
 
 Feel free to add more aggregations. 
+
+
+And then just start the flask-development server: 
+
+```
+$ python run.py	
+```
 
 
 

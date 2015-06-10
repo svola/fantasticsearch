@@ -15,6 +15,19 @@ Demo
 ![alt tag](https://raw.github.com/svola/ElasticUI-extension/master/doku/demo-materialize2.png)
 
 
+
+Dependencies
+----------
+You need Python 2.7+, the packages elasticsearch and flask
+
+```
+$ pip install elasticsearch
+$ pip install flask
+```
+
+And you should have a running instance of ElasticSearch Version 1.x. 
+
+
 Setup
 ----------
 

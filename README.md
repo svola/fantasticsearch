@@ -99,14 +99,14 @@ Usually you want the field both, intuitively searchable and "facetable", so you 
       }
 }
 ```
-
-Your **template** would then look like this:
-
-```
-<h3>Author</h3>
-  <eui-checklist field="'author.raw'" size="10"></eui-checklist>
-```
-            
+  
 http://www.elastic.co/guide/en/elasticsearch/reference/current/_multi_fields.html
+
+
+Issues
+--------------------------
+
+For some reason the JS-code only works on Chrome and not on Firefox.
+If someone wants to help, I'd appreciate that!
 
 

@@ -36,6 +36,7 @@ function getFilters() {
 		filters.push(id);
 		var url = '/search?term='+term+'&filter='+filters;
 		$.get(url, function (response) {
+                       $(document).empty();
 			document.open();
 			document.write(response);
 			document.close();
@@ -44,6 +45,7 @@ function getFilters() {
 	} else {		
 		var url = '/search?term='+term+'&filter='+filters;
 		$.get(url, function (response) {
+                       $(document).empty();
 			document.open();
 			document.write(response);
 			document.close();

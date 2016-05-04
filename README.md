@@ -103,10 +103,4 @@ Usually you want the field both, intuitively searchable and "facetable", so you 
 http://www.elastic.co/guide/en/elasticsearch/reference/current/_multi_fields.html
 
 
-Issues
---------------------------
-
-For some reason the JS-code only works on Chrome and not on Firefox.
-If someone wants to help, I'd appreciate that!
-
 
